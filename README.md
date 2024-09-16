@@ -12,5 +12,7 @@ Consultas e Análises: Foram realizadas consultas SQL para explorar e analisar o
 • SQL: Para realização das consultas e criação das visões.
 • Databricks: Plataforma utilizada para o desenvolvimento do projeto.
 
+![foto](C:\Users\pedro\Desktop\Captura de tela 2024-09-16 192307.png)
+
 # Conclusão
   Este projeto simula o trabalho de um analista de dados, utilizando o Databricks para importar, limpar e analisar um banco de dados complexo. Através de consultas SQL e visualizações gráficas, é possível identificar padrões de comportamento dos consumidores e avaliar o desempenho dos vendedores. As visualizações geradas no Databricks permitem uma compreensão mais intuitiva e detalhada dos dados, facilitando a tomada de decisões estratégicas baseadas em insights precisos e acionáveis.
