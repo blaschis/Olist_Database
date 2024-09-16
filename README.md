@@ -1,5 +1,4 @@
-# Projeto em: [https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3037575391409511/2904689222324283/5137336894094209/latest.html]
-• Ative o recurso vizualização nas consultas.
+Projeto em: [https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3037575391409511/2904689222324283/5137336894094209/latest.html]           • Ative o recurso vizualização nas consultas.
 # Introdução:
   Este projeto consiste na criação e análise de um banco de dados da Olist utilizando a plataforma Databricks. A Olist é uma plataforma de e-commerce brasileira que conecta pequenas empresas a diversos marketplaces, facilitando a venda de produtos online.
 
